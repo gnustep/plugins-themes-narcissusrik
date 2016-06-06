@@ -1,0 +1,233 @@
+{
+    GSThemeAuthors = (
+	"Jesse Ross",
+	"Eric Wasylishen"
+    );
+    GSThemeDomain = {
+	GSBrowserColumnSeparation = 0;
+	GSBrowserUseBezels = NO;
+	GSBrowserVerticalPadding = 0;
+	GSScrollViewNoInnerBorder = YES;
+	GSScrollerButtonsOffset = 0;
+	GSScrollerDefaultWidth = "16.0";
+	GSScrollerKnobOvershoot = "1.0";
+	NSMenuInterfaceStyle = GSWindowMakerInterfaceStyle;
+	GSScrollViewUseBottomCorner = NO;
+	GSMenuBarHeight = 22;
+	GSMenuItemHeight = 20;
+	GSMenuSeparatorHeight = 5;
+	GSScrollerArrowsSameEnd = YES;
+	GSScrollerScrollsByPage = YES;
+	GSBrowserColumnSeparation = 0;
+	GSBrowserVerticalPadding = 0;
+	NSTitleBarFont = Helvetica;
+	GSScrollViewScrollersOverlapBorders = YES;
+	GSMenuSubmenuHorizontalOverlap = 1;
+	GSMenuSubmenuVerticalOverlap = 1;
+    };
+    GSThemeIcon = "Thematic.png";
+    GSThemeTiles = {
+	GSBrowserHeader = {
+	    FileName = "BrowserHeader.9.png";
+	};
+	GSButton = {
+	    FileName = "Button-unselected.9.png";
+	};
+	GSButtonSelected = {
+	    FileName = "Button-selected.9.png";
+	};
+	GSColorWell = {
+	    FileName = "Button-unselected.9.png";
+	};
+	GSColorWellHighlighted = {
+	    FileName = "Button-highlighted.9.png";
+	};
+	GSMenuHorizontalItem = {
+	    FileName = "Blank.9.png";
+	};
+	GSMenuHorizontalItemHighlighted = {
+	    FileName = "GSMenuItemSelected.png";
+            NinePatch = YES;
+	};
+	GSMenuHorizontalItemSelected = {
+	    FileName = "GSMenuItemSelected.png";
+            NinePatch = YES;
+	};
+	GSMenuTitleBackground = {
+	    FileName = "MenuTitleBackground.9.png";
+	};
+	GSMenuVerticalBackground = {
+	    FileName = "Menu.9.png";
+	};
+	GSMenuVerticalItem = {
+	    FileName = "Blank.9.png";
+	};
+	GSMenuVerticalItemHighlighted = {
+	    FileName = "GSMenuItemSelected.png";
+            NinePatch = YES;
+	};
+	GSMenuVerticalItemSelected = {
+	    FileName = "GSMenuItemSelected.png";
+            NinePatch = YES;
+	};
+	GSMenuVerticalItemDisabled = {
+	    FileName = "Blank.9.png";
+	};
+	GSMenuSeparatorItem = {
+ 	    FileName = "GSMenuSeparatorItem.9.png";
+	    NinePatch = YES;
+	};
+	GSMenuCloseButton = {
+	    FileName = "Blank.9.png";
+	};
+	GSProgressIndicatorBarDeterminate = {
+	    FileName = "Progress-horizontal-fill.tiff";
+	    FillStyle = Repeat;
+	};
+	GSScrollerDownArrow = {
+	    FileName = "GSScrollerDownArrow.9.png";
+	};
+	GSScrollerDownArrowHighlighted = {
+	    FileName = "GSScrollerDownArrowHighlighted.9.png";
+	    NinePatch = YES;
+	};
+	GSScrollerHorizontalKnob = {
+	    FileName = "Scrollbar-horizontal-thumb.9.png";
+	};
+	GSScrollerHorizontalSlot = {
+	    FileName = "Scrollbar-horizontal-slot.9.png";
+	};
+	GSScrollerLeftArrow = {
+	    FileName = "GSScrollerLeftArrow.9.png";
+	};
+	GSScrollerLeftArrowHighlighted = {
+	    FileName = "GSScrollerLeftArrowHighlighted.9.png";
+	};
+	GSScrollerRightArrow = {
+	    FileName = "GSScrollerRightArrow.9.png";
+	};
+	GSScrollerRightArrowHighlighted = {
+	    FileName = "GSScrollerRightArrowHighlighted.9.png";
+	};
+	GSScrollerUpArrow = {
+	    FileName = "GSScrollerUpArrow.9.png";
+	};
+	GSWindowBackground = {
+	    FileName = "WindowBackground.png";
+	    HorizontalDivision = 20;
+	    VerticalDivision = 20;
+	};
+	GSWindowBackgroundSelected = {
+	    FileName = "WindowBackgroundSelected.png";
+	    FillStyle = ScaleAll;
+	    HorizontalDivision = 20;
+	    VerticalDivision = 20;
+	};
+	GSWindowResizeBar = {
+	    FileName = "WindowResize.9.png";
+	};
+	GSWindowTitleBar = {
+	    FileName = "Titlebar.9.png";
+	};
+	NSBezelBorder = {
+	    FileName = "Textbox.9.png";
+	    NinePatch = YES;
+	};
+	NSButton = {
+	    FileName = "Button-unselected.9.png";
+	};
+	NSButtonDisabled = {
+	    FileName = "Button-disabled.9.png";
+	};
+	NSButtonHighlighted = {
+	    FileName = "Button-highlighted.9.png";
+	};
+	NSButtonSelected = {
+	    FileName = "Button-selected.9.png";
+	};
+	GSPopUpButton = {
+	    FileName = "Button-unselected.9.png";
+	    NinePatch = YES;
+	};
+	GSPopUpButtonDisabled = {
+	    FileName = "Button-disabled.9.png";
+	    NinePatch = YES;
+	};
+	GSPopUpButtonHighlighted = {
+	    FileName = "Button-highlighted.9.png";
+	    NinePatch = YES;
+	};
+	GSPopUpButtonSelected = {
+	    FileName = "Button-selected.9.png";
+	    NinePatch = YES;
+	};
+
+	NSSegmentStyleTexturedSquare = {
+	    FileName = "SegmentedCell-unselected.9.png";
+	};
+	NSSegmentStyleTexturedSquareRoundedLeft = {
+	    FileName = "SegmentedCellRoundedLeft-unselected.9.png";
+	};
+	NSSegmentStyleTexturedSquareRoundedLeftRoundedRight = {
+	    FileName = "SegmentedCell-unselected.9.png";
+	};
+	NSSegmentStyleTexturedSquareRoundedLeftRoundedRightSelected = {
+	    FileName = "SegmentedCell-selected.9.png";
+	};
+	NSSegmentStyleTexturedSquareRoundedLeftSelected = {
+	    FileName = "SegmentedCellRoundedLeft-selected.9.png";
+	};
+	NSSegmentStyleTexturedSquareRoundedRight = {
+	    FileName = "SegmentedCell-unselected.9.png";
+	};
+	NSSegmentStyleTexturedSquareRoundedRightSelected = {
+	    FileName = "SegmentedCell-selected.9.png";
+	};
+	NSSegmentStyleTexturedSquareSelected = {
+	    FileName = "SegmentedCell-selected.9.png";
+	};
+	NSTextFieldRoundedBezel = {
+	    FileName = "Textbox.9.png";
+	};
+	NSTextFieldSquareBezel = {
+	    FileName = "Textbox.9.png";
+	};
+	NSTexturedSquareBezelStyle = {
+	    FileName = "SquareButton.9.png";
+	};
+	NSTexturedSquareBezelStyleSelected = {
+	    FileName = "SquareButtonSelected.9.png";
+	};
+	GSScrollViewBottomCorner = {
+	    FileName = "GSScrollViewBottomCorner.9.png";
+	};
+	GSSliderHorizontalTrack = {
+	    FileName = "SliderTrackHorizontal.9.png";
+	};
+	GSSliderVerticalTrack = {
+	    FileName = "SliderTrackVertical.9.png";
+	};
+	GSBoxBorder = {
+	    FileName = "Box.9.png";
+	};
+	NSFocusRing = {
+	    FileName = "Blank.9.png";
+	};
+	GSColorWellInnerBorder = {
+	    FileName = "Textbox.9.png";
+	};
+	NSImageFramePhoto = {
+	    FileName = "Textbox.9.png";
+	};
+	NSImageFrameGrayBezel = {
+	    FileName = "Textbox.9.png";
+	};
+	NSImageFrameGroove = {
+	    FileName = "Textbox.9.png";
+	};
+	NSImageFrameButton = {
+	    FileName = "Button-unselected.9.png";
+	};
+    };
+    GSThemeVersion = "0.1";
+}
